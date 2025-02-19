@@ -12,8 +12,7 @@ The **Amazon Sales Dashboard FR'24** is an interactive and visually appealing da
 - 📦 **Inventory & Stock Management**: Helps in managing stock levels efficiently.
 
 ## 🛠 Tech Stack
-- **Data Visualization**: Power BI, Excel
-- **Dashboard Development**: Power BI, Excel
+- **Data Visualization & Dashboard Development**: Power BI
 
 ## 📥 Installation & Usage
 1. **Clone the Repository**
@@ -21,13 +20,11 @@ The **Amazon Sales Dashboard FR'24** is an interactive and visually appealing da
    git clone https://github.com/your-username/amazon-sales-dashboard.git
    cd amazon-sales-dashboard
    ```
-
 2. **Open the Dashboard**
-   - If using **Power BI**, open the `.pbix` file.
-   - If using **Excel**, open the `.xlsx` file.
+   - Open the `.pbix` file using **Power BI**.
 
 3. **Load Data**
-   - Ensure the dataset is connected and properly loaded into the tool.
+   - Ensure the dataset is connected and properly loaded into Power BI.
 
 4. **Explore Insights**
    - Use interactive filters and visualizations to analyze sales trends.
@@ -40,12 +37,8 @@ The **Amazon Sales Dashboard FR'24** is an interactive and visually appealing da
 - 📱 Develop a mobile-friendly version.
 - 📊 Add predictive analytics for sales forecasting.
 
-## 📝 License
-This project is licensed under the **MIT License**.
-
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues and submit pull requests.
 
-## 📧 Contact
-For any queries or collaborations, reach out via [your email] or connect on [LinkedIn/GitHub Profile].
+
 
