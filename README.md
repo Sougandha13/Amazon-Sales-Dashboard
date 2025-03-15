@@ -30,7 +30,8 @@ The **Amazon Sales Dashboard FR'24** is an interactive and visually appealing da
    - Use interactive filters and visualizations to analyze sales trends.
 
 ## 📸 Screenshots
-(Include relevant images of the dashboard here)
+![Alt text](https://github.com/Sougandha13/Amazon-Sales-Dashboard/blob/main/AMAZON%20SALES%20DASHBOARD%20FR'24-1.png)
+
 
 ## 📌 Future Enhancements
 - 🔄 Automate data updates via API integration.
